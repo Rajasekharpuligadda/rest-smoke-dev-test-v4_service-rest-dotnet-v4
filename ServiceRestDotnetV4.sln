@@ -1,0 +1,22 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServiceRestDotnetV4", "ServiceRestDotnetV4.csproj", "{A93BB5EB-CE1A-4DD0-8C8E-41D1CF3300EE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A93BB5EB-CE1A-4DD0-8C8E-41D1CF3300EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A93BB5EB-CE1A-4DD0-8C8E-41D1CF3300EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A93BB5EB-CE1A-4DD0-8C8E-41D1CF3300EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A93BB5EB-CE1A-4DD0-8C8E-41D1CF3300EE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {91FE7102-CCCA-4ABC-9DB0-B2DE441877FF}
+	EndGlobalSection
+EndGlobal
